@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenSeaSDK", "OpenSeaSDK.csproj", "{E56FAED7-F790-4754-8DA5-8BC2F5D2CCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSeaTracker", "..\OpenSeaTracker\OpenSeaTracker.csproj", "{53388B26-A262-4EDF-9992-C56EA181FFA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56FAED7-F790-4754-8DA5-8BC2F5D2CCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56FAED7-F790-4754-8DA5-8BC2F5D2CCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56FAED7-F790-4754-8DA5-8BC2F5D2CCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56FAED7-F790-4754-8DA5-8BC2F5D2CCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53388B26-A262-4EDF-9992-C56EA181FFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53388B26-A262-4EDF-9992-C56EA181FFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53388B26-A262-4EDF-9992-C56EA181FFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53388B26-A262-4EDF-9992-C56EA181FFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EFA722D-87C1-4A9D-8E96-44F5D602FCA1}
+	EndGlobalSection
+EndGlobal
